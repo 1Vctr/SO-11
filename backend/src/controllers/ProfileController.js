@@ -1,4 +1,3 @@
-const { index } = require("./OngController");
 const conection = require("../database/conection");
 
 module.exports = {

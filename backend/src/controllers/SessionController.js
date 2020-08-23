@@ -1,4 +1,3 @@
-const { create } = require("./OngController");
 const conection = require("../database/conection");
 
 module.exports = {
